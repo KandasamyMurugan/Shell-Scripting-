@@ -15,3 +15,4 @@ Here are the topics of the shell.
 9. Inputs
 10. SED Editor
 
+We are going to learn BASH SHELL 
