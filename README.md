@@ -13,6 +13,6 @@ Here are the topics of the shell.
 7. Quotes
 8. Exit Status
 9. Inputs
-10. SED Editor
+10. SED Editor -> Parking for later time 
 
 We are going to learn BASH SHELL 

@@ -22,7 +22,7 @@ done
 
 # Print List of Course
 for course in DevOps AWS Azure GCP Testing; do
-  echo Welcome to Course - ${course}
+  echo Welcome to Course - $course
 done
 
 # Two loop control commands are there
